@@ -3,8 +3,6 @@
 //  BackDataPassingUsing Prortocols
 //  Created by Mac on 15/10/2024
 
-
-
 import UIKit
 
 //step 4 - conform to protocol
