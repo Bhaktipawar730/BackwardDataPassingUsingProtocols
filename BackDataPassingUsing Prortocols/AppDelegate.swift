@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  BackDataPassingUsing Prortocols
-//  Created by Mac on15/10/2024.
+//  Created by Mac on 15/10/2024.
 
 import UIKit
 
